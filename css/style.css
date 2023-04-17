@@ -46,3 +46,30 @@ h1{
 .desc_photo{
     font-size: 8px;
 }
+
+.list{
+    padding-inline-start: 12px;
+}
+
+.thead{
+    background-color: #4EA0FF;
+    color: white;
+}
+
+.tbody{
+    background-color: #B1E5F2;
+}
+
+.more{
+    width: 50%;
+    text-align: left;
+}
+
+.less{
+    width: 25%;
+    text-align: left;
+}
+
+.lorem_table{
+    border-spacing: 0;
+}
