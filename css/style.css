@@ -31,11 +31,13 @@ main{
 
 h1{
     margin-bottom: 0;
+    font-size: 2rem;
 }
 
 .tim{
-    width: 100%;
+    width: 90%;
     height: 365px;
+    padding-top: 10px;
 }
 
 .tim_1, .tim_2{
@@ -72,4 +74,8 @@ h1{
 
 .lorem_table{
     border-spacing: 0;
+}
+
+h4{
+    color: grey;
 }
