@@ -1,0 +1,11 @@
+.div_header{
+    height: 120px;
+    background-image: url(../img/pattern.png);
+    background-color: aqua;
+}
+
+.logo{
+    width: 12%;
+    margin-left: 25%;
+    margin-top: 35px;
+}
